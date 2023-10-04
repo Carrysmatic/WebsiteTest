@@ -1,3 +1,5 @@
+Small website created using NextJS with a lot of pictures / slides.
+
 What you can find useful in this project: 
 
 -Responsive design (mobile, tablet, desktop)
